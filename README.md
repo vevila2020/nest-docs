@@ -1,6 +1,6 @@
 # Nest 通关秘籍
 
-[文档地址](https://nest-docs.liushuaiyang.com)
+[文档地址](https://nest-docs.elias.ccwu.cc/)
 
 ## 你将获得
 - 全面掌握 Nest，深入实现原理；
