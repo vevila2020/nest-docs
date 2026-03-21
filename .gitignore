@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+/docs/.vitepress/dist
+/docs/.vitepress/cache
+/docs/image
+/vitepress.stdout.log
+/vitepress.stderr.log
